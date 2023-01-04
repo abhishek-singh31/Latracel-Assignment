@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Latracel-Assignment/static/css/main.939f367d.css",
+    "main.js": "/Latracel-Assignment/static/js/main.1e7992b9.js",
+    "index.html": "/Latracel-Assignment/index.html",
+    "main.939f367d.css.map": "/Latracel-Assignment/static/css/main.939f367d.css.map",
+    "main.1e7992b9.js.map": "/Latracel-Assignment/static/js/main.1e7992b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939f367d.css",
+    "static/js/main.1e7992b9.js"
+  ]
+}
